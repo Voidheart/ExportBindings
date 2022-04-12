@@ -1,0 +1,9 @@
+﻿{
+  "name": "VoidExportBindings",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Voidheart/VoidExportBindings",
+  "description": "Import/Export key bindings.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1900"
+  ]
+}
